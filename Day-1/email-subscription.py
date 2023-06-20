@@ -1,14 +1,14 @@
 import smtplib
 
-my_email = "KrishnaKumar3450@outlook.com"
-password = "kk3450Kk"
+my_email = "my_email"
+password = "my_password"
 
 connection = smtplib.SMTP("smtp.office365.com")
 connection.starttls()
 connection.login(user=my_email, password=password)
 connection.sendmail(
     from_addr=my_email,
-    to_addrs="ashgalactic@gmail.com",
+    to_addrs="123@email.com",
     msg='''Subject: The Newsletter - Thank you for subscribing!
     \n\n
     Dear [Subscriber's Name],
