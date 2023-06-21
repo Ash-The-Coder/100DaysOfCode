@@ -1,6 +1,6 @@
 # 100 Days Of Code Daily Progress
 
-**Day 1: Email Subscription Script**
+## Day 1: Email Subscription Script
 
 Today, I started my 100 Days of Code challenge by working on an email subscription script. The script allows users to subscribe to a newsletter and sends them a confirmation email. Here's a summary of what I accomplished today:
 
@@ -15,9 +15,25 @@ Today, I started my 100 Days of Code challenge by working on an email subscripti
 
 I'm excited to continue my coding journey and look forward to working on more projects in the coming days. Tomorrow, I plan to explore different ways to enhance this email subscription script. Stay tuned for more updates!
 
-You can find the code for today's project on my GitHub repository: [link to your repository]
+You can find the code for today's project on my GitHub repository:
 
 #100DaysOfCode #Python #EmailSubscription
 
 Remember to personalize the message, email addresses, and other details according to your specific implementation. Good luck with your challenge!
-***
+
+---
+
+## Day 2: Buzz Time Web App
+
+Today, I worked on a web application called Buzz Time. It allows users to post and view buzzes in a Twitter-like interface. Here's what I accomplished:
+
+- Updated the HTML template to reflect the new design with a dark blue and light blue color scheme.
+- Modified the text entry section to be shorter and more visually appealing.
+- Integrated the Flask framework to handle the server-side functionality.
+- Implemented the ability to post buzzes and display them in a card-based format.
+
+I'm thrilled with the progress I've made so far, and I'm excited to continue on with the challenge
+
+You can find the code for Buzz Time on my GitHub repository:
+
+#100DaysOfCode #WebDevelopment #Python #Flask
