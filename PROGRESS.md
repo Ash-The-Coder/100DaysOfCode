@@ -37,3 +37,9 @@ I'm thrilled with the progress I've made so far, and I'm excited to continue on 
 You can find the code for Buzz Time on my GitHub repository:
 
 #100DaysOfCode #WebDevelopment #Python #Flask
+
+## Day 3: ML Practice
+
+Created and uploaded two data science projects . One telecom churn prediction and another an EDA using the Adult dataset.
+
+
