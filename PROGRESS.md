@@ -42,4 +42,7 @@ You can find the code for Buzz Time on my GitHub repository:
 
 Created and uploaded two data science projects . One telecom churn prediction and another an EDA using the Adult dataset.
 
+## Day 4: 
+
+Created and uploaded one React project. Todo application
 
