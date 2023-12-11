@@ -46,3 +46,6 @@ Created and uploaded two data science projects . One telecom churn prediction an
 
 Created and uploaded one React project. Todo application
 
+## Day 5:
+
+Created and updated weather React Application
